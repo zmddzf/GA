@@ -14,7 +14,6 @@ class GA(object):
     def __init__(self, parameters, low, up, objectFuction):
         """
         Initialize the object and set the parameters
-        ___dict___
         The data structure of parameters is a list:
         [populationSize, maxGeneration, Pc, Pm, L]
         
